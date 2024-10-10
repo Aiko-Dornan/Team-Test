@@ -11,7 +11,7 @@ public:
 	void setNumGas(int n, double g);
 };
 
-//Carクラスメンバ定義の定義
+//Carクラスメンバ関数の定義
 void Car::show()
 {
 	cout << "車のナンバーは" << num << "です。\n";
@@ -25,8 +25,8 @@ void Car::setNumGas(int n, double g)
 		cout << "ナンバーを" << num << "にガソリン量を" << gas << "にしました。\n";
 	}
 	else {
-		cout << g << "は正しいガソリン量ではありません。\n";
-		cout << "ガソリン量を変更出来ませんでした。\n";
+		cout << g << "はただしガソリン量ではありません。\n";
+		cout << "ガソリン量を変更できませんでした。\n";
 	}
 }
 
@@ -41,7 +41,7 @@ int main()
 	car1.setNumGas(1234, 20.5);
 	car1.show();
 
-	cout << "正しくないガソリン量を（-10,0）を指定してみます・・・。\n";
+	cout << "正しくないガソリン量を（-10.0）を指定してみます・・・。\n";
 	car1.setNumGas(1234, -10.0);
 	car1.show();
 
