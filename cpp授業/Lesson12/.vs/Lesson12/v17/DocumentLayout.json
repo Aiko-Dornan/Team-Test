@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GA1A\\Desktop\\cpp\u6388\u696D\\Lesson12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7480DD31-1918-482E-9F5A-34E755BC8AF1}|Lesson12\\Lesson12.vcxproj|C:\\Users\\GA1A\\Desktop\\cpp\u6388\u696D\\Lesson12\\Lesson12\\sample1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7480DD31-1918-482E-9F5A-34E755BC8AF1}|Lesson12\\Lesson12.vcxproj|solutionrelative:Lesson12\\sample1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample1.cpp",
+              "DocumentMoniker": "C:\\Users\\GA1A\\Desktop\\cpp\u6388\u696D\\Lesson12\\Lesson12\\sample1.cpp",
+              "RelativeDocumentMoniker": "Lesson12\\sample1.cpp",
+              "ToolTip": "C:\\Users\\GA1A\\Desktop\\cpp\u6388\u696D\\Lesson12\\Lesson12\\sample1.cpp",
+              "RelativeToolTip": "Lesson12\\sample1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T02:05:14.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
